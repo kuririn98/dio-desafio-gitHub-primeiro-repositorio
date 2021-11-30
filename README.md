@@ -1,3 +1,5 @@
-# Dio desafio projeto sobre git/gitHub
+# Dio desafio de projeto sobre git/gitHub
+ repositório para o Desafio de repositório
 
-Desafio de projeto sobre git/github
+
+
